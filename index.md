@@ -27,4 +27,4 @@ Join us in revolutionizing the education landscape!
 
 ## Contact Us
 
-For any further queries about the job postings, please contact us at [Company's Email Address](email:it@ebac.dev).
+For any further queries about the job postings, please contact us at [contact us at](mailto:it@ebac.dev).
