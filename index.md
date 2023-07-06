@@ -2,34 +2,29 @@
 
 ## Open Positions
 
-### 1. [Junior Python Developer (AI & Data Analysis)](link-to-job-posting)
+### 1. [Junior Python Developer (AI & Data Analysis)](junior-python-developer)
 
-   - Location: Sa Paulo, Brazil
+   - Location: São Paulo, Brazil
    - Type: Full Time
-   - Apply by: [Closing Date]
 
-### 2. [Senior Software Engineer](link-to-job-posting)
+### 2. [Senior Software Engineer](junior-python-developer)
 
    - Location: [Company's Location]
    - Type: Full Time
-   - Apply by: [Closing Date]
 
 ### 3. [Data Scientist](link-to-job-posting)
 
    - Location: [Company's Location]
    - Type: Full Time
-   - Apply by: [Closing Date]
 
-### 4. [Product Manager - Edtech](link-to-job-posting)
+### 4. [Product Manager - Edtech](junior-python-developer)
 
    - Location: [Company's Location]
    - Type: Full Time
-   - Apply by: [Closing Date]
 
-[Here](link-to-all-openings) you can find a complete list of open positions at EBAC Online.
 
 Join us in revolutionizing the education landscape!
 
 ## Contact Us
 
-For any further queries about the job postings, please contact us at [Company's Email Address].
+For any further queries about the job postings, please contact us at [Company's Email Address](email:it@ebac.dev).
