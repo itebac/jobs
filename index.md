@@ -9,17 +9,17 @@
 
 ### 2. [Senior Software Engineer](junior-python-developer)
 
-   - Location: [Company's Location]
+   - Location: São Paulo, Brazil
    - Type: Full Time
 
-### 3. [Data Scientist](link-to-job-posting)
+### 3. [Data Scientist](junior-python-developer)
 
-   - Location: [Company's Location]
+   - Location: São Paulo, Brazil
    - Type: Full Time
 
 ### 4. [Product Manager - Edtech](junior-python-developer)
 
-   - Location: [Company's Location]
+   - Location: São Paulo, Brazil
    - Type: Full Time
 
 
