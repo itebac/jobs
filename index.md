@@ -7,7 +7,7 @@
    - Location: São Paulo, Brazil
    - Type: Full Time
 
-### 2. [Senior Software Engineer](junior-python-developer)
+### 2. [Senior Software Engineer](senior-software-engineer)
 
    - Location: São Paulo, Brazil
    - Type: Full Time
