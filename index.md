@@ -12,7 +12,7 @@
    - Location: São Paulo, Brazil
    - Type: Full Time
 
-### 3. [Data Scientist](junior-python-developer)
+### 3. [Data Scientist](data-scientist)
 
    - Location: São Paulo, Brazil
    - Type: Full Time
