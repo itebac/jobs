@@ -17,7 +17,7 @@
    - Location: São Paulo, Brazil
    - Type: Full Time
 
-### 4. [Product Manager - Edtech](junior-python-developer)
+### 4. [Product Manager - Edtech](product-manager)
 
    - Location: São Paulo, Brazil
    - Type: Full Time
